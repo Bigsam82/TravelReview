@@ -13,6 +13,7 @@ namespace TravelReview1.Models
         public int ID { get; set; }
         public string Location { get; set; }
         public string Name { get; set; }
+        [Display(Name ="This Is The Review Comments.")]
         public string Comments { get; set; }
         public DateTime Date { get; set; }
 
