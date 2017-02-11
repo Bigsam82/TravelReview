@@ -1,4 +1,6 @@
-﻿body {
+﻿/* Set new color and background image*/
+
+body {
     padding-top: 50px;
     padding-bottom: 20px;
     background-color: lightblue;
@@ -24,24 +26,36 @@ select,
 textarea {
     max-width: 280px;
 }
+/* Changed background color font size and font family */
+
 .thumbnail{
 background-color:white;
 font:12px;
 font-style:italic;
 font-family:'Times New Roman', Times, serif;
 }
+
+/* Changed font size and color */
+
 .Headliner{
     font:34px;
     color:black;
 }
+
+/* Changed color and font */
+
 .navbar-header{
     background-color:aqua;
     font:25px;
 }
 .DeeT {
-    color: aqua;
+    color: aqua;/* Changed Details page color and font */
+
     font-size: 25px;
 }
+/* Changed color so that it can be seen better */
+
+
 .Cre{
-    color:black;
+    background-color:black;
 }
